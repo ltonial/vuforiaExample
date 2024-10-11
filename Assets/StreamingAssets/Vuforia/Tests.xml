@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="codemarker" size="1.000000 0.664000" />
+    <ImageTarget name="seanet" size="1.000000 1.914970" />
+    <ImageTarget name="Quad" size="1.000000 0.968730" />
+    <ImageTarget name="kokku" size="1.000000 1.406482" />
+  </Tracking>
+</QCARConfig>
